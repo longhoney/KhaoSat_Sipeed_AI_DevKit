@@ -17,6 +17,8 @@ Test khả năng giao tiếp với thẻ nhớ Micro SD bằng cách chạy chư
   - Định dạng NTFS: không hoạt động, không lưu được file main.py.
   - Định dạng exFAT: không hoạt động, không lưu được file main.py.
 
+Thông tin định dạng thẻ nhớ kit hỗ trợ từ hãng: https://wiki.sipeed.com/soft/maixpy/en/get_started/get_started_fs.html
+
 Tiếp tục thử flash firmware vào thẻ nhớ: https://github.com/sipeed/kflash_gui/tree/master
 
 Kiểm tra firmware hiện tại của sản phẩm: Chạy file main.py hoặc kiểm tra trong phần mềm MaixPy IDE.
