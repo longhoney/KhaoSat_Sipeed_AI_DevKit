@@ -25,6 +25,8 @@ Kiểm tra firmware hiện tại của sản phẩm: Chạy file main.py hoặc 
 Trang web hướng dẫn update firmware và link tải : https://wiki.sipeed.com/soft/maixpy/en/get_started/upgrade_maixpy_firmware.html 
 Ta cần update MaixPy firmware để kit giao tiếp với MaixPy IDE (nếu chưa có sẵn)
 
+Video kiểm tra sản phẩm khách gửi về: https://www.youtube.com/watch?v=LkM6WUoc5Ls
+
 # Maix Dock M1W
 
 Mắt camera không điều chỉnh được tiêu cự
@@ -32,6 +34,8 @@ Mắt camera không điều chỉnh được tiêu cự
 Firware MaixPy v0.6.2 không hỗ trợ thẻ nhớ dung lượng từ 64GB trở lên. Xem lại thông tin định dạng thẻ nhớ được kit hỗ trợ ở trên
 
 Firmware MaixPy v0.6.3 hỗ trợ thẻ nhớ dung lượng từ 64GB trở lên. Xem lại cách update firmware ở trên
+
+Video kiểm tra sản phẩm trước khi gửi hàng đi: https://www.youtube.com/watch?v=IBKUpSeqoYY
 
 
 
